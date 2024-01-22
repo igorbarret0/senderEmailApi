@@ -2,7 +2,7 @@
   SENDER EMAIL API
 </h1>
 
-API para envio de email (CRUD)
+API para envio de email
 
 ## Tecnologias
 
